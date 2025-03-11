@@ -1,0 +1,18 @@
+.App {
+  max-width: 1200px !important;
+  margin: auto;
+  width: 100%;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+  gap: 100px;
+  margin: 50px auto;
+}
+
+
+.logout{
+  position: absolute;
+  bottom: 10px;
+  right: 30px;
+  cursor: pointer;
+}
